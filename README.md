@@ -93,4 +93,4 @@
 
     - **Authentication** : Firebase authentication.
 
-- **[Client side](https://github.com/fazlulkarimhridoy/brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/brandshop-project-server) - [live demo](https://brand-shop-assignment-aadee.web.app/)** 
+- **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment-aadee.web.app/)** 
