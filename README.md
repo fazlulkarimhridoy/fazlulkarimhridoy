@@ -44,8 +44,7 @@
 
 
 # :books: Recent projects
-<br />
 
- ## :newspaper: Daily pulse newspaper website
+ ### :newspaper: Daily pulse newspaper website
 
 - ### Description : 
