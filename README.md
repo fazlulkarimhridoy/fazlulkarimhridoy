@@ -41,3 +41,6 @@
 <img width="60px" src="/images/Icons/VSCode-Dark.svg"/>
 <img width="60px" src="/images/Icons/Vercel-Dark.svg"/>
 </p>
+
+
+## :🔗: Recent projects
