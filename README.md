@@ -8,6 +8,14 @@
 
 <br />
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+
 ## :computer: Technologies that I know
 
 <br>
