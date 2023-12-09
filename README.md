@@ -36,8 +36,8 @@
 <img src="/images/Icons/node.png"/>
 <img src="/images/Icons/express.png"/>
 <img src="/images/Icons/firebase.png"/>
-<img src="/images/Icons/Git.svg"/>
-<img src="/images/Icons/Github-Dark.svg"/>
-<img src="/images/Icons/VSCode-Dark.svg"/>
-<img src="/images/Icons/Vercel-Dark.svg"/>
+<img width="60px" src="/images/Icons/Git.svg"/>
+<img width="60px" src="/images/Icons/Github-Dark.svg"/>
+<img width="60px" src="/images/Icons/VSCode-Dark.svg"/>
+<img width="60px" src="/images/Icons/Vercel-Dark.svg"/>
 </p>
