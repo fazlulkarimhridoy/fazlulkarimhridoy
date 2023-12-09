@@ -12,14 +12,14 @@
 
 <br />
 
-## :chart_with_upwards_trend: Current Stats
+# :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
-## :computer: Technologies that I know
+# :computer: Technologies that I know
 
 <br>
 <p align="center">
@@ -43,4 +43,9 @@
 </p>
 
 
-## :🔗: Recent projects
+# :books: Recent projects
+<br />
+
+ ## :newspaper: Daily pulse newspaper website
+
+- ### Description : 
