@@ -12,7 +12,7 @@
 
 <br />
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 
