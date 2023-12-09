@@ -64,7 +64,7 @@
 
 ### :world_map: Local tour guide website
 
-- **Description** : A dynamic tour guide website where people can book a local guide for their visiting purpose and people can create local guides using the website.
+- **Description** : A dynamic tour guide website where people can book a local guide for their visiting purpose and people can create local guide post. A user can update or delete his post and anyone can book guide from the website. In all services page user can find a post by searching with name
 
 - **Technologies used** :
 
@@ -77,3 +77,20 @@
     - **Authentication** : Firebase authentication with jwt set at cookies.
 
 - **[Client side](https://github.com/fazlulkarimhridoy/local-tour-guide-client) - [Server side](https://github.com/fazlulkarimhridoy/local-tour-project-server) - [live demo](https://local-tour-client.vercel.app)** 
+
+
+### :tshirt: Menverse brand shop website
+
+- **Description** : A dynamic brand shop website where we can add products, update products. And also we can add products to cart and delete them form cards. We can filter products by brand.
+
+- **Technologies used** :
+
+    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI.
+
+    - **Backend** : Node.js, Express.js.
+
+    - **Database** : MongoDB
+
+    - **Authentication** : Firebase authentication.
+
+- **[Client side](https://github.com/fazlulkarimhridoy/brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/brandshop-project-server) - [live demo](https://brand-shop-assignment-aadee.web.app/)** 
