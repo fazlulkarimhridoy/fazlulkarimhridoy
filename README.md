@@ -45,6 +45,18 @@
 
 # :books: Recent projects
 
- ### :newspaper: Daily pulse newspaper website
+### :newspaper: Daily pulse newspaper website
 
-- ### Description : 
+- **Description** : A dynamic newspaper portal where publications can publish their news and users can get all them in one platform. And admin dashboard can manage users and publications.
+
+- **Technologies used** :
+
+    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-countup.
+
+    - **Backend** : Node.js, Express.js.
+
+    - **Database** : MongoDB
+
+    - **Authentication** : Firebase authentication with jwt set at cookies.
+
+- **[Client side](https://github.com/fazlulkarimhridoy/daily-pulse-newspaper-client) - [Server side](https://github.com/fazlulkarimhridoy/newspaper-project-server) - [live demo](https://newspaper-client.vercel.app/)** 
