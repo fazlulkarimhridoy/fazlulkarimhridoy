@@ -60,3 +60,20 @@
     - **Authentication** : Firebase authentication with jwt set at cookies.
 
 - **[Client side](https://github.com/fazlulkarimhridoy/daily-pulse-newspaper-client) - [Server side](https://github.com/fazlulkarimhridoy/newspaper-project-server) - [live demo](https://newspaper-client.vercel.app/)** 
+
+
+### :world_map: Local tour guide website
+
+- **Description** : A dynamic tour guide website where people can book a local guide for their visiting purpose and people can create local guides using the website.
+
+- **Technologies used** :
+
+    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-simple-typewriter.
+
+    - **Backend** : Node.js, Express.js.
+
+    - **Database** : MongoDB
+
+    - **Authentication** : Firebase authentication with jwt set at cookies.
+
+- **[Client side](https://github.com/fazlulkarimhridoy/local-tour-guide-client) - [Server side](https://github.com/fazlulkarimhridoy/local-tour-project-server) - [live demo](https://local-tour-client.vercel.app)** 
