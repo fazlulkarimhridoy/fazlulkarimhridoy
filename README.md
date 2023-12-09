@@ -27,7 +27,7 @@
 <img src="./images/Icons/css.png"/>
 <img src="./images/Icons/JavaScript.png"/>
 <img src="./images/Icons/tailwind.png"/>
-<img src="/images/Icons/Bootstrap.svg"/>
+<img width="60px" src="/images/Icons/Bootstrap.svg"/>
 <img src="./images/Icons/react.png"/>
 <img src="/images/Icons/mongo.png"/>
 </p>
