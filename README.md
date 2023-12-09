@@ -1,4 +1,4 @@
-<img src="./images/banner.gif"/>
+<img src="./images/BannerGif.gif"/>
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
