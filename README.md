@@ -16,13 +16,12 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark" alt="GitHub Streak" />
+  <img width="390" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
+  <img width="370" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak" />
+  
 </p>
-
-
 
 # :computer: Technologies that I know
 
@@ -51,8 +50,6 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-
 # :books: Recent projects
 
 ### :newspaper: Daily pulse newspaper website
@@ -60,21 +57,20 @@
 - **Description** : A dynamic newspaper portal where publications can publish their news and users can get all them in one platform. And admin dashboard can manage users and publications.
 
 - **Admin credentials**, <br />
-Email : fkhridoy4321@gmail.com <br />
-Password : Hridoy98karim@ 
+  Email : fkhridoy4321@gmail.com <br />
+  Password : Hridoy98karim@
 
 - **Technologies used** :
 
-    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-countup.
+  - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-countup.
 
-    - **Backend** : Node.js, Express.js.
+  - **Backend** : Node.js, Express.js.
 
-    - **Database** : MongoDB
+  - **Database** : MongoDB
 
-    - **Authentication** : Firebase authentication with jwt set at cookies.
+  - **Authentication** : Firebase authentication with jwt set at cookies.
 
-- **[Client side](https://github.com/fazlulkarimhridoy/daily-pulse-newspaper-client) - [Server side](https://github.com/fazlulkarimhridoy/newspaper-project-server) - [live demo](https://newspaper-client.vercel.app/)** 
-
+- **[Client side](https://github.com/fazlulkarimhridoy/daily-pulse-newspaper-client) - [Server side](https://github.com/fazlulkarimhridoy/newspaper-project-server) - [live demo](https://newspaper-client.vercel.app/)**
 
 ### :world_map: Local tour guide website
 
@@ -82,16 +78,15 @@ Password : Hridoy98karim@
 
 - **Technologies used** :
 
-    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-simple-typewriter.
+  - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI, react-simple-typewriter.
 
-    - **Backend** : Node.js, Express.js.
+  - **Backend** : Node.js, Express.js.
 
-    - **Database** : MongoDB
+  - **Database** : MongoDB
 
-    - **Authentication** : Firebase authentication with jwt set at cookies.
+  - **Authentication** : Firebase authentication with jwt set at cookies.
 
-- **[Client side](https://github.com/fazlulkarimhridoy/local-tour-guide-client) - [Server side](https://github.com/fazlulkarimhridoy/local-tour-project-server) - [live demo](https://local-tour-client.vercel.app)** 
-
+- **[Client side](https://github.com/fazlulkarimhridoy/local-tour-guide-client) - [Server side](https://github.com/fazlulkarimhridoy/local-tour-project-server) - [live demo](https://local-tour-client.vercel.app)**
 
 ### :tshirt: Menverse brand shop website
 
@@ -99,16 +94,15 @@ Password : Hridoy98karim@
 
 - **Technologies used** :
 
-    - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI.
+  - **Frontend** : React.js, Tailwind CSS, DaisyUI, MambaUI, Hyper UI.
 
-    - **Backend** : Node.js, Express.js.
+  - **Backend** : Node.js, Express.js.
 
-    - **Database** : MongoDB
+  - **Database** : MongoDB
 
-    - **Authentication** : Firebase authentication.
+  - **Authentication** : Firebase authentication.
 
-- **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)** 
-
+- **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)**
 
 # :fire: Summary of profile
 
@@ -125,7 +119,3 @@ Password : Hridoy98karim@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlulkarimhridoy&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazlulkarimhridoy&theme=dark&utcOffset=8">
 </p>
-
-
-
-
