@@ -16,8 +16,8 @@
 
 <br />
 <p align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
-  <img width="370" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
+  <img width="390" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
+  <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
 </p>
 
 # :computer: Technologies that I know
@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img width="375" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
-  <img width="375" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+  <img width="375" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
+  <img width="375" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
 </p>
 
 # :books: Recent projects
