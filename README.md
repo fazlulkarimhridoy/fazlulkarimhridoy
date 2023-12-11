@@ -1,4 +1,4 @@
-<img width="800" height="450" src="./images/BannerGif.gif"/>
+<img width="900" height="450" src="./images/BannerGif.gif"/>
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
