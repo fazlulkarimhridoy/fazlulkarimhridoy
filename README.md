@@ -19,9 +19,6 @@
   <img width="390" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
   <img width="370" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
 </p>
-<p align="center">
-  
-</p>
 
 # :computer: Technologies that I know
 
@@ -47,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark" alt="GitHub Streak" />
 </p>
 
 # :books: Recent projects
@@ -110,12 +107,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazlulkarimhridoy&theme=dark">
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlulkarimhridoy&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazlulkarimhridoy&theme=dark&utcOffset=8">
-</p>
+</p> -->
