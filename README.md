@@ -45,7 +45,7 @@
 
 <p align="center">
   <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
-  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+  <img width="355" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
 </p>
 
 # :books: Recent projects
