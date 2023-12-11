@@ -16,8 +16,13 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak" />
+</p>
+
+
 
 # :computer: Technologies that I know
 
@@ -42,12 +47,21 @@
 <img width="60px" src="/images/Icons/Vercel-Dark.svg"/>
 </p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark" alt="GitHub Streak" />
+</p>
+
+
 
 # :books: Recent projects
 
 ### :newspaper: Daily pulse newspaper website
 
 - **Description** : A dynamic newspaper portal where publications can publish their news and users can get all them in one platform. And admin dashboard can manage users and publications.
+
+- **Admin credentials**, <br />
+Email : fkhridoy4321@gmail.com <br />
+Password : Hridoy98karim@ 
 
 - **Technologies used** :
 
@@ -93,4 +107,25 @@
 
     - **Authentication** : Firebase authentication.
 
-- **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment-aadee.web.app/)** 
+- **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)** 
+
+
+# :fire: Summary of profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazlulkarimhridoy&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlulkarimhridoy&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazlulkarimhridoy&theme=dark&utcOffset=8">
+</p>
+
+
+
+
