@@ -105,8 +105,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
 </p>
 <p align="center">
-  <img width="385" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
-  <img width="385" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
+  <img width="375" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazlulkarimhridoy&layout=compact&theme=dark"/>
+  <img width="375" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
 </p>
 
 <!-- <p align="center">
