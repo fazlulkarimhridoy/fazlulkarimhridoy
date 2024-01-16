@@ -2,7 +2,7 @@
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
-### - 🌱 I’m currently learning - **Next.js**
+### - 🌱 I’m currently learning - **Typescript**
 
 ### - 👯 I’m looking to collaborate on - **MERN Stack projects**
 
