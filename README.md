@@ -2,7 +2,7 @@
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
-### - 🌱 I’m currently learning - **Next.js**
+### - 🌱 I’m currently learning - **App Development With Pure ReactJs**
 
 ### - 👯 I’m looking to collaborate on - **MERN Stack projects**
 
@@ -119,3 +119,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlulkarimhridoy&theme=dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazlulkarimhridoy&theme=dark&utcOffset=8">
 </p> -->
+
+<div align="center">
+<picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazlulkarimhridoy/fazlulkarimhridoy/output/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazlulkarimhridoy/fazlulkarimhridoy/output/snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fazlulkarimhridoy/fazlulkarimhridoy/output/snake.svg">
+            </img>
+        </source>
+    </source>
+</picture>
+</div>
