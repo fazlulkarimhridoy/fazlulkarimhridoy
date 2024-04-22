@@ -30,6 +30,7 @@
 <img src="./images/Icons/tailwind.png"/>
 <img width="60px" src="/images/Icons/Bootstrap.svg"/>
 <img src="./images/Icons/react.png"/>
+<img src="./images/Icons/capacitor.png"/>
 <img width="60px" src="/images/Icons/MongoDB.svg"/>
 </p>
 <br>
