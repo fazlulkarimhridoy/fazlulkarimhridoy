@@ -2,7 +2,7 @@
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
-### - 🌱 I’m currently learning - **App Development**
+### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
 
 ### - 👯 I’m looking to collaborate on - **MERN Stack projects**
 
