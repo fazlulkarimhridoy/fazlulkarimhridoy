@@ -15,7 +15,7 @@
 
 ### - 📫 How to reach me: - fkhridoy4321@gmail.com
 </div>
-<div align="top-right">
+<div align="justify">
     <a href="https://app.daily.dev/fazlulkarimhridoy"><img src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" width="356" alt="Fazlul Karim Hridoy's Dev Card"/></a>
 
 </div>
