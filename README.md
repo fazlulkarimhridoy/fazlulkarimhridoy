@@ -1,10 +1,11 @@
 <img width="900" height="450" src="./images/BannerGif.gif"/>
 
-# Hello 👋, I am Fazlul Karim Hridoy
 
 <div>
 
   <div align="left">
+    
+# Hello 👋, I am Fazlul Karim Hridoy
 
   ### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
 
