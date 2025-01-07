@@ -1,9 +1,9 @@
 <img width="100%" height="450" src="./images/BannerGif.gif"/>
+
 <a href="https://app.daily.dev/fazlulkarimhridoy">
     <img align="right" src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" 
     width="356" alt="Fazlul Karim Hridoy's Dev Card"/></a>
 
- 
 # Hello 👋, I am Fazlul Karim Hridoy
 
 ### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
@@ -16,7 +16,7 @@
 
 ### - 💻 Open for: - Full Time / Part Time / Contractual
 
-<br />
+
 <br />
 <br />
 <br />
