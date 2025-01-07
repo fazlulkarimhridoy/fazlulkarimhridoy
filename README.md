@@ -2,9 +2,18 @@
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
-| Details | Dev Card |
-|---------|----------|
-| ### 🌱 I’m currently learning - **NextJs & Prisma ORM**<br>### 👯 I’m looking to collaborate on - **MERN Stack projects**<br>### 💬 Ask me about - **React.js, MongoDB, Node.js, Express.js**<br>### 📫 How to reach me: - fkhridoy4321@gmail.com | <a href="https://app.daily.dev/fazlulkarimhridoy"><img src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" width="356" alt="Fazlul Karim Hridoy's Dev Card"/></a> |
+<div align="center">
+  
+### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
+
+### - 👯 I’m looking to collaborate on - **MERN Stack projects**
+
+### - 💬 Ask me about - **React.js, MongoDB, Node.js, Express.js**
+
+### - 📫 How to reach me: - fkhridoy4321@gmail.com
+
+<a href="https://app.daily.dev/fazlulkarimhridoy"><img src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" width="356" alt="Fazlul Karim Hridoy's Dev Card"/></a>
+</div>
 
 
 <br />
