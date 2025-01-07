@@ -8,15 +8,14 @@
 
 ### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
 
-### - 👯 I’m looking to collaborate on - **MERN Stack projects**
+### - 👯 I’m looking to collaborate on - **Full Stack projects**
 
-### - 💬 Ask me about - **React.js, MongoDB, Node.js, Express.js**
+### - 💬 Ask me about - **Javascript, React.js, Next.js**
 
 ### - 📫 How to reach me: - fkhridoy4321@gmail.com
 
+### - 💻 Open for: - Full Time / Part Time / Contractual
 
-<br />
-<br />
 <br />
 <br />
 <br />
