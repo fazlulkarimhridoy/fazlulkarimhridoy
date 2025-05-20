@@ -57,7 +57,7 @@
 <img width="60px" src="/images/Icons/Vercel-Dark.svg"/>
 </p>
 
-# :books: Recent projects
+<!-- # :books: Recent projects
 
 ### :newspaper: Daily pulse newspaper website
 
@@ -109,7 +109,7 @@
 
     -   **Authentication** : Firebase authentication.
 
--   **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)**
+-   **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)** -->
 
 # :fire: Summary of profile
 
