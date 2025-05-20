@@ -32,6 +32,9 @@
 <p align="center">
   <img width="390" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
   <img width="390" height="150" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
+  <p align="center">
+  <img width="680px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
+</p>
 </p>
 
 # :computer: Technologies that I know
@@ -111,11 +114,11 @@
 
 -   **[Client side](https://github.com/fazlulkarimhridoy/menverse-brand-shop-client) - [Server side](https://github.com/fazlulkarimhridoy/menverse-brandshop-project-server) - [live demo](https://brand-shop-assignment.vercel.app)** -->
 
-# :fire: Summary of profile
+<!-- # :fire: Summary of profile -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
-</p>
+<!-- <p align="center">
+  <img width="680px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlulkarimhridoy&theme=dark">
