@@ -29,12 +29,12 @@
 
 <br>
 <p align="center">
-<img src="./images/Icons/HTML.png"/>
-<img src="./images/Icons/css.png"/>
+<img width="60px" src="/images/Icons/C.svg"/>
 <img src="./images/Icons/JavaScript.png"/>
+<img width="60px" src="/images/Icons/TypeScript.svg"/>
 <img src="./images/Icons/tailwind.png"/>
-<img width="60px" src="/images/Icons/NextJS-Dark.svg"/>
 <img src="./images/Icons/react.png"/>
+<img width="60px" src="/images/Icons/NextJS-Dark.svg"/>
 <img width="60px" src="/images/Icons/Prisma.svg"/>
 </p>
 <br>
@@ -42,10 +42,10 @@
 <img src="/images/Icons/node.png"/>
 <img src="/images/Icons/express.png"/>
 <img width="60px" src="/images/Icons/MongoDB.svg"/>
+<img width="60px" src="/images/Icons/MySQL-Dark.svg"/>
 <img src="/images/Icons/firebase.png"/>
 <img width="60px" src="/images/Icons/Git.svg"/>
 <img width="60px" src="/images/Icons/Github-Dark.svg"/>
-<img width="60px" src="/images/Icons/Vercel-Dark.svg"/>
 </p>
 
 # :chart_with_upwards_trend: Current Stats
