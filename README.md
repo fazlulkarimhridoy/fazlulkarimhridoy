@@ -30,8 +30,8 @@
 
 <br />
 <p align="center">
-  <img width="430px" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
-  <img width="430px" height="150" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
+  <img width="420px" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
+  <img width="420px" height="150" src="https://github-readme-stats.vercel.app/api?username=fazlulkarimhridoy&show_icons=true&theme=dark&rank_icon=github"/>
   <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
 </p>
