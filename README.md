@@ -6,6 +6,8 @@
 
 # Hello 👋, I am Fazlul Karim Hridoy
 
+![](https://komarev.com/ghpvc/?username=fazlulkarimhridoy&color=blue&abbreviated=true)
+
 ### - 🌱 I’m currently learning - **NextJs & Prisma ORM**
 
 ### - 👯 I’m looking to collaborate on - **Full Stack projects**
