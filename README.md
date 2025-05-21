@@ -23,21 +23,28 @@
 <br />
 
 # :computer: Technologies that I know
+
 ### 🧑‍💻 Programming Languages
 
-<p align="center"> <img width="60px" src="/images/Icons/C.svg"/> <img width="60px" src="./images/Icons/JavaScript.png"/> <img width="60px" src="./images/Icons/TypeScript.svg"/> </p>
+<p align="center"> <img width="60px" src="./images/Icons/JavaScript.png"/> <img width="60px" src="./images/Icons/TypeScript.svg"/> <img width="60px" src="/images/Icons/C.svg"/> <img width="60px" src="/images/Icons/Python-Dark.svg"/></p>
 
 ### 🎨 Frontend
 
-<p align="center"> <img width="60px" src="./images/Icons/react.png"/> <img width="60px" src="./images/Icons/NextJS-Dark.svg"/> <img width="60px" src="./images/Icons/tailwind.png"/> </p>
+<p align="center"> <img width="60px" src="./images/Icons/NextJS-Dark.svg"/> <img width="60px" src="./images/Icons/react.png"/>  <img width="60px" src="./images/Icons/tailwind.png"/> <img width="60px" src="./images/Icons/HTML.png"/> <img width="60px" src="./images/Icons/css.png"/> <img width="60px" src="/images/Icons/Bootstrap.svg"/></p>
 
 ### 🧩 Backend & Databases
 
-<p align="center"> <img width="60px" src="/images/Icons/node.png"/> <img width="60px" src="/images/Icons/express.png"/> <img width="60px" src="/images/Icons/Prisma.svg"/> <img width="60px" src="/images/Icons/MongoDB.svg"/> <img width="60px" src="/images/Icons/MySQL-Dark.svg"/> <img width="60px" src="/images/Icons/firebase.png"/> </p>
+<p align="center"> <img width="60px" src="/images/Icons/node.png"/> <img width="60px" src="/images/Icons/express.png"/> <img width="60px" src="/images/Icons/Prisma.svg"/> <img width="60px" src="/images/Icons/MongoDB.svg"/> <img width="60px" src="/images/Icons/MySQL-Dark.svg"/> <img width="60px" src="/images/Icons/firebase.png"/> <img width="60px" src="/images/Icons/jwt.svg"/> </p>
 
 ### 🧰 Tools
 
-<p align="center"> <img width="60px" src="/images/Icons/Git.svg"/> <img width="60px" src="/images/Icons/Github-Dark.svg"/> </p>
+<p align="center"> <img width="60px" src="/images/Icons/Git.svg"/> <img width="60px" src="/images/Icons/Github-Dark.svg"/> <img width="60px" src="/images/Icons/VSCode-Dark.svg"/>  <img width="60px" src="/images/Icons/Postman.svg"/> <img width="60px" src="/images/Icons/Npm-Dark.svg"/> <img width="60px" src="/images/Icons/Vercel-Dark.svg"/> </p>
+
+<br />
+
+# :mobile: Connect with me
+
+<p align="center"> <img width="60px" src="/images/Icons/LinkedIn.svg"/> <img width="60px" src="/images/Icons/Instagram.svg"/> <img width="60px" src="/images/Icons/Twitter.svg"/>  <img width="60px" src="/images/Icons/Discord.svg"/> <img width="60px" src="/images/Icons/Facebook.svg"/> </p>
 
 # :chart_with_upwards_trend: Current Stats
 
