@@ -1,12 +1,14 @@
 <img width="100%" height="450" src="./images/BannerGif.gif"/>
 
-<a href="https://app.daily.dev/fazlulkarimhridoy">
-    <img align="right" src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" 
-    width="356" alt="Fazlul Karim Hridoy's Dev Card"/></a>
-
 # Hello 👋, I am Fazlul Karim Hridoy
 
-![](https://komarev.com/ghpvc/?username=fazlulkarimhridoy&color=blue&abbreviated=true)
+<div align="left">
+<a href="https://app.daily.dev/fazlulkarimhridoy">
+    <img align="right" src="https://api.daily.dev/devcards/v2/op4HWfaBgzdDHOC9QKlW5.png?type=default&r=w53" 
+    width="200" alt="Fazlul Karim Hridoy's Dev Card"/></a>
+</div>
+
+![](https://komarev.com/ghpvc/?username=fazlulkarimhridoy&color=blue&abbreviated=false)
 
 ### 🌱 I’m currently learning - **NextJs & Prisma ORM**
 
@@ -36,6 +38,7 @@
 <p align="center"> <img width="60px" src="/images/Icons/C.svg"/> <img width="60px" src="./images/Icons/JavaScript.png"/> <img width="60px" src="./images/Icons/TypeScript.svg"/> </p>
 
 ## 🎨 Frontend
+
 <p align="center"> <img width="60px" src="./images/Icons/react.png"/> <img width="60px" src="./images/Icons/NextJS-Dark.svg"/> <img width="60px" src="./images/Icons/tailwind.png"/> </p>
 
 ## 🧩 Backend & Databases
