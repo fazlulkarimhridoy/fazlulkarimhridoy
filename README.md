@@ -42,7 +42,7 @@
 
 <br />
 
-# :mobile: Connect with me
+# 📱 Connect with me
 
 <p align="center"> <a href="https://www.linkedin.com/in/fazlulkarimhridoy23"><img width="60px" src="/images/Icons/LinkedIn.svg"/></a> <a href="https://www.instagram.com/__hridoy_______"><img width="60px" src="/images/Icons/Instagram.svg"/></a> <a href="https://x.com/faz_lul_hridoy"><img width="60px" src="/images/Icons/Twitter.svg"/></a> <a href="https://discordapp.com/users/fazlulkarimhridoy"><img width="60px" src="/images/Icons/Discord.svg"/></a> </p>
 
