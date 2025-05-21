@@ -30,25 +30,14 @@
 # :computer: Technologies that I know
 
 <br>
-<p align="center">
-<img width="60px" src="/images/Icons/C.svg"/>
-<img src="./images/Icons/JavaScript.png"/>
-<img width="60px" src="/images/Icons/TypeScript.svg"/>
-<img src="./images/Icons/tailwind.png"/>
-<img src="./images/Icons/react.png"/>
-<img width="60px" src="/images/Icons/NextJS-Dark.svg"/>
-<img width="60px" src="/images/Icons/Prisma.svg"/>
-</p>
-<br>
-<p align="center">
-<img src="/images/Icons/node.png"/>
-<img src="/images/Icons/express.png"/>
-<img width="60px" src="/images/Icons/MongoDB.svg"/>
-<img width="60px" src="/images/Icons/MySQL-Dark.svg"/>
-<img src="/images/Icons/firebase.png"/>
-<img width="60px" src="/images/Icons/Git.svg"/>
-<img width="60px" src="/images/Icons/Github-Dark.svg"/>
-</p>
+🧑‍💻 Programming Languages
+<p align="center"> <img width="60px" src="/images/Icons/C.svg"/> <img width="60px" src="./images/Icons/JavaScript.png"/> <img width="60px" src="./images/Icons/TypeScript.svg"/> </p>
+🎨 Frontend
+<p align="center"> <img width="60px" src="./images/Icons/react.png"/> <img width="60px" src="./images/Icons/NextJS-Dark.svg"/> <img width="60px" src="./images/Icons/tailwind.png"/> </p>
+🧩 Backend & Databases
+<p align="center"> <img width="60px" src="/images/Icons/node.png"/> <img width="60px" src="/images/Icons/express.png"/> <img width="60px" src="/images/Icons/Prisma.svg"/> <img width="60px" src="/images/Icons/MongoDB.svg"/> <img width="60px" src="/images/Icons/MySQL-Dark.svg"/> <img width="60px" src="/images/Icons/firebase.png"/> </p>
+🧰 Tools
+<p align="center"> <img width="60px" src="/images/Icons/Git.svg"/> <img width="60px" src="/images/Icons/Github-Dark.svg"/> </p>
 
 # :chart_with_upwards_trend: Current Stats
 
