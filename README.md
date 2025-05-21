@@ -34,7 +34,7 @@
 
 ### 🧩 Backend & Databases
 
-<p align="center"> <img width="60px" src="/images/Icons/node.png"/> <img width="60px" src="/images/Icons/express.png"/> <img width="60px" src="/images/Icons/Prisma.svg"/> <img width="60px" src="/images/Icons/MongoDB.svg"/> <img width="60px" src="/images/Icons/MySQL-Dark.svg"/> <img width="60px" src="/images/Icons/firebase.png"/> <img width="60px" src="/images/Icons/jwt.svg"/> </p>
+<p align="center"> <img width="60px" src="/images/Icons/node.png"/> <img width="60px" src="/images/Icons/express.png"/> <img width="60px" src="/images/Icons/Prisma.svg"/> <img width="60px" src="/images/Icons/MongoDB.svg"/> <img width="60px" src="/images/Icons/MySQL-Dark.svg"/> <img width="60px" src="/images/Icons/firebase.png"/> </p>
 
 ### 🧰 Tools
 
@@ -44,7 +44,10 @@
 
 # :mobile: Connect with me
 
-<p align="center"> <img width="60px" src="/images/Icons/LinkedIn.svg"/> <img width="60px" src="/images/Icons/Instagram.svg"/> <img width="60px" src="/images/Icons/Twitter.svg"/>  <img width="60px" src="/images/Icons/Discord.svg"/> <img width="60px" src="/images/Icons/Facebook.svg"/> </p>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/fazlulkarimhridoy23">
+<img width="60px" src="/images/Icons/LinkedIn.svg"/>
+</a> <img width="60px" src="/images/Icons/Instagram.svg"/> <img width="60px" src="/images/Icons/Twitter.svg"/>  <img width="60px" src="/images/Icons/Discord.svg"/> </p>
 
 # :chart_with_upwards_trend: Current Stats
 
