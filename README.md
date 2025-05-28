@@ -50,8 +50,8 @@
 
 <br />
 <p align="center">
-  <img width="400px" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
-  <img width="380px" height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/fazlulkarimhridoy?cardType=level&theme=dark&preferLogin=false"/>
+  <img width="380px" height="150" src="https://streak-stats.demolab.com?user=fazlulkarimhridoy&theme=dark"/>
+  <img width="360px" height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/fazlulkarimhridoy?cardType=level&theme=dark&preferLogin=false"/>
   <img width="100%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlulkarimhridoy&theme=dark">
   </p>
 <!-- <p align="center">
