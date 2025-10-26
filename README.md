@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me: - fkhridoy4321@gmail.com
 
-### 💻 Open for: - Full Time / Part Time / Contractual
+### 💻 Open for: - Contractual Projects
 
 <br />
 
